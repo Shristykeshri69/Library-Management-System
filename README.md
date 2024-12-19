@@ -23,7 +23,7 @@ Technologies Used
 # To Run:
 Clone the repository:
 ```bash
- git clone https://github.com/meena-sharma/Library_Management_System
+ git clone [(https://github.com/Shristykeshri69/Library-Management-System.git)]
 cd librarymanagementsystem 
 ```
 
